@@ -53,5 +53,8 @@ Setelah melatih model, hasil yang diperoleh adalah sebagai berikut:
 - **Akurasi pada Test Set**: 0.08083333333333333
 ![Training Result](images/graph.png) 
 
+---
+
 Contoh prediksi:
+
 ![Result](images/result.png)
